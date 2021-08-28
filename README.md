@@ -5,3 +5,6 @@
 
 * Added service worker script to index.HTML file.
 * Created service-worker.js file.
+* Manifest.json file.
+
+* 
