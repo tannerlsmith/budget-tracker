@@ -7,4 +7,4 @@
 * Created service-worker.js file.
 * Manifest.json file.
 
-* 
+* service-worker.js file created
